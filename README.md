@@ -1,6 +1,7 @@
 # Car MSRP Prediction with Machine Learning
 
 This project predicts the Manufacturer Suggested Retail Price (MSRP) of a car using machine learning.
+this is the project link: https://the-car-price-predictor-repo-ngsbc3sefeiep5vq3ykazw.streamlit.app
 
 The project covers the full machine learning workflow, including data exploration, preprocessing, feature engineering, model training, hyperparameter tuning, error analysis, and deployment using Streamlit.
 
